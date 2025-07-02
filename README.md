@@ -1,4 +1,4 @@
-# Dashboard_2
+# HR ANALYTICS
 HR Analytics Dashboard for Employee Performance and Retention
 
 Developed a comprehensive HR analytics dashboard to monitor employee performance and attrition rates
